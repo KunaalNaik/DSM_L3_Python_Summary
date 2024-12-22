@@ -138,4 +138,3 @@ result_summary = create_summary(df, ['Segment', 'Region', 'Category'])
 2. Apply **reset_index()** to convert grouped results into DataFrames.
 3. Combine summaries with **pd.concat()** for a consolidated view.
 4. Wrap logic in functions for reusability and scalability.
-
