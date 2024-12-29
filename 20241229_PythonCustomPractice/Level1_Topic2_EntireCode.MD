@@ -157,7 +157,3 @@ def is_anagram(str1, str2):
 **Problem Statement:**  
 1. Complete the `is_anagram` function to return `True` if the strings are anagrams, otherwise `False`.  
 2. Test the function with inputs `"listen"` and `"silent"`.  
-
----
-
-Would you like me to expand any specific topic further or add additional problem statements?
