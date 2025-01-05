@@ -1,0 +1,4 @@
+,2023-Q2,2023-Q3,2023-Q4,2024-Q1,2024-Q2
+accuracy_of_sales_forecasts_,0.8,0.82,0.84,0.86,0.88
+data_quality_score,0.875,0.9,0.925,0.95,0.975
+compliance_rate_with_data_protection_laws_,0.95,0.96,0.97,0.98,0.99
